@@ -1,5 +1,5 @@
 {
-    "name": "paypal-express-checkout",
+    "name": "node-paypal-express-checkout",
     "version": "1.6.1",
     "description": "node.js paypal express checkout",
     "main": "./index.js",
